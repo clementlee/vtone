@@ -9,24 +9,14 @@ body {
 	margin-top:100px;
 	width:900px;
 	height:auto;
-	border:1px #000 solid;
-}
-#logo {
-	width:300px;
-	height:auto;
-	margin:10px;
-	margin-bottom:0px /*override value */
 }
 #navdiv {
+	float:left;
+	width:300px;
+	height:300px;
 }
 #aboutdiv {
-	position:relative;
-	font-size:12px;
-	margin:10px;
-	padding:5px;
-	box-sizing:border-box;
-	-moz-box-sizing:border-box;
-	-webkit-box-sizing:border-box;
-	border:1px #000 solid;
+	float:right;
 	width:300px;
+	height:300px;
 }
